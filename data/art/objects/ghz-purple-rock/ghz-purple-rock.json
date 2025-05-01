@@ -1,0 +1,47 @@
+{
+    "animations": [
+        {
+            "id": "purple-rock",
+            "script": [
+                {
+                    "show": "purple-rock"
+                }
+            ],
+            "speed": 23
+        }
+    ],
+    "sprites": [
+        {
+            "id": "purple-rock",
+            "image": "ghz-purple-rock.png",
+            "origin": {
+                "x": 24,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -16,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

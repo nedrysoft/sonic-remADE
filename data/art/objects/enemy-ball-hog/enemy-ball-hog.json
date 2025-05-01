@@ -1,0 +1,245 @@
+{
+    "animations": [
+        {
+            "id": "hog",
+            "script": [
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "leap"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "leap"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "leap"
+                },
+                {
+                    "show": "squat"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "standing"
+                },
+                {
+                    "show": "open"
+                }
+            ],
+            "speed": 9
+        }
+    ],
+    "sprites": [
+        {
+            "id": "ball1",
+            "image": "enemy-ball-hog-ball1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 39,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "ball2",
+            "image": "enemy-ball-hog-ball2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 43,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "leap",
+            "image": "enemy-ball-hog-leap.png",
+            "origin": {
+                "x": 12,
+                "y": 28
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 30,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "open",
+            "image": "enemy-ball-hog-open.png",
+            "origin": {
+                "x": 12,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -1,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "squat",
+            "image": "enemy-ball-hog-squat.png",
+            "origin": {
+                "x": 12,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "standing",
+            "image": "enemy-ball-hog-standing.png",
+            "origin": {
+                "x": 12,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -1,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

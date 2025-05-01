@@ -1,0 +1,214 @@
+{
+    "animations": [
+        {
+            "id": "",
+            "script": [
+                {
+                    "show": "still"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "",
+            "script": [
+                {
+                    "show": "fly1"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "",
+            "script": [
+                {
+                    "show": "fly1"
+                },
+                {
+                    "show": "fly2"
+                },
+                {
+                    "show": "fly3"
+                },
+                {
+                    "show": "fly2"
+                }
+            ],
+            "speed": 3
+        }
+    ],
+    "sprites": [
+        {
+            "id": "fly1",
+            "image": "enemy-basarin-fly1.png",
+            "origin": {
+                "x": 12,
+                "y": 14
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 39,
+                    "top": 2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 10,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -14,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fly2",
+            "image": "enemy-basarin-fly2.png",
+            "origin": {
+                "x": 16,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": 0,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 26,
+                    "top": 8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 22,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 20,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "fly3",
+            "image": "enemy-basarin-fly3.png",
+            "origin": {
+                "x": 12,
+                "y": 10
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 39,
+                    "top": -2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 37,
+                    "top": 14,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 34,
+                    "top": 6,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -11,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -10,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "still",
+            "image": "enemy-basarin-still.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

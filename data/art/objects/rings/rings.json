@@ -1,0 +1,203 @@
+{
+    "animations": [
+        {
+            "id": "sparkle",
+            "script": [
+                {
+                    "show": "sparkle1"
+                },
+                {
+                    "show": "sparkle2"
+                },
+                {
+                    "show": "sparkle3"
+                },
+                {
+                    "show": "sparkle4"
+                }
+            ],
+            "speed": 8
+        },
+        {
+            "id": "ring",
+            "script": [
+                {
+                    "show": "front"
+                },
+                {
+                    "show": "angle1"
+                },
+                {
+                    "show": "edge"
+                },
+                {
+                    "show": "angle2"
+                }
+            ],
+            "speed": 8
+        }
+    ],
+    "sprites": [
+        {
+            "id": "angle1",
+            "image": "rings-angle1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "angle2",
+            "image": "rings-angle2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "edge",
+            "image": "rings-edge.png",
+            "origin": {
+                "x": 4,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "front",
+            "image": "rings-front.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "sparkle1",
+            "image": "rings-sparkle1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "sparkle2",
+            "image": "rings-sparkle2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "sparkle3",
+            "image": "rings-sparkle3.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "sparkle4",
+            "image": "rings-sparkle4.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}
+

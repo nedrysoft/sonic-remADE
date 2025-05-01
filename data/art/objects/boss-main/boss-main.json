@@ -1,0 +1,56 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "chainanchor1",
+            "image": "boss-main-chainanchor1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "chainanchor2",
+            "image": "boss-main-chainanchor2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

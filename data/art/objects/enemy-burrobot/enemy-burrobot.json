@@ -1,0 +1,275 @@
+{
+    "animations": [
+        {
+            "id": "walk1",
+            "script": [
+                {
+                    "show": "walk1"
+                },
+                {
+                    "show": "walk3"
+                }
+            ],
+            "speed": 3
+        },
+        {
+            "id": "walk2",
+            "script": [
+                {
+                    "show": "walk1"
+                },
+                {
+                    "show": "walk2"
+                }
+            ],
+            "speed": 3
+        },
+        {
+            "id": "digging",
+            "script": [
+                {
+                    "show": "digging1"
+                },
+                {
+                    "show": "digging2"
+                }
+            ],
+            "speed": 3
+        },
+        {
+            "id": "fall",
+            "script": [
+                {
+                    "show": "fall"
+                }
+            ],
+            "speed": 3
+        }
+    ],
+    "sprites": [
+        {
+            "id": "digging1",
+            "image": "enemy-burrobot-digging1.png",
+            "origin": {
+                "x": 12,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 39,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 30,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "digging2",
+            "image": "enemy-burrobot-digging2.png",
+            "origin": {
+                "x": 12,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 57,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "facedown",
+            "image": "enemy-burrobot-facedown.png",
+            "origin": {
+                "x": 24,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 81,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 75,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "fall",
+            "image": "enemy-burrobot-fall.png",
+            "origin": {
+                "x": 16,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 66,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk1",
+            "image": "enemy-burrobot-walk1.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk2",
+            "image": "enemy-burrobot-walk2.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk3",
+            "image": "enemy-burrobot-walk3.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

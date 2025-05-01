@@ -1,0 +1,181 @@
+{
+    "animations": [
+        {
+            "id": "unfold",
+            "script": [
+                {
+                    "show": "roll1"
+                },
+                {
+                    "show": "fold"
+                },
+                {
+                    "show": "stand"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "fold",
+            "script": [
+                {
+                    "show": "fold"
+                },
+                {
+                    "show": "roll1"
+                },
+                {
+                    "change": "roll"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "roll",
+            "script": [
+                {
+                    "show": "roll2"
+                },
+                {
+                    "show": "roll3"
+                },
+                {
+                    "show": "roll1"
+                }
+            ],
+            "speed": 3
+        }
+    ],
+    "sprites": [
+        {
+            "id": "fold",
+            "image": "enemy-roller-fold.png",
+            "origin": {
+                "x": 16,
+                "y": 26
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -26,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll1",
+            "image": "enemy-roller-roll1.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll2",
+            "image": "enemy-roller-roll2.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll3",
+            "image": "enemy-roller-roll3.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 64,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "stand",
+            "image": "enemy-roller-stand.png",
+            "origin": {
+                "x": 16,
+                "y": 34
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -10,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -34,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

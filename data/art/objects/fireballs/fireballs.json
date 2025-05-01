@@ -1,0 +1,198 @@
+{
+    "animations": [
+        {
+            "id": "vertical",
+            "script": [
+                {
+                    "show": "vertical1"
+                },
+                {
+                    "flags": [
+                        "Mirrored"
+                    ],
+                    "show": "vertical1"
+                },
+                {
+                    "show": "vertical2"
+                },
+                {
+                    "flags": [
+                        "Mirrored"
+                    ],
+                    "show": "vertical2"
+                }
+            ],
+            "speed": 5
+        },
+        {
+            "id": "vertical-collide",
+            "script": [
+                {
+                    "show": "vertcollide"
+                }
+            ],
+            "speed": 5
+        },
+        {
+            "id": "horizontal",
+            "script": [
+                {
+                    "show": "horizontal1"
+                },
+                {
+                    "flags": [
+                        "Flipped"
+                    ],
+                    "show": "horizontal1"
+                },
+                {
+                    "show": "horizontal2"
+                },
+                {
+                    "flags": [
+                        "Flipped"
+                    ],
+                    "show": "horizontal2"
+                }
+            ],
+            "speed": 5
+        },
+        {
+            "id": "horizontal-collide",
+            "script": [
+                {
+                    "show": "horicollide"
+                }
+            ],
+            "speed": 5
+        }
+    ],
+    "sprites": [
+        {
+            "id": "horicollide",
+            "image": "fireballs-horicollide.png",
+            "origin": {
+                "x": 16,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 38,
+                    "top": -8,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "horizontal1",
+            "image": "fireballs-horizontal1.png",
+            "origin": {
+                "x": 24,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 22,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "horizontal2",
+            "image": "fireballs-horizontal2.png",
+            "origin": {
+                "x": 24,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 30,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "vertcollide",
+            "image": "fireballs-vertcollide.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "vertical1",
+            "image": "fireballs-vertical1.png",
+            "origin": {
+                "x": 8,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "vertical2",
+            "image": "fireballs-vertical2.png",
+            "origin": {
+                "x": 8,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -24,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

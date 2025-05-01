@@ -1,0 +1,46 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "frame1",
+            "image": "ending-sth-logo-frame1.png",
+            "origin": {
+                "x": 48,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 32,
+                    "top": -16,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": -16,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -48,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+    "animations": [
+        {
+            "id": "stand",
+            "script": [
+                {
+                    "show": "stand2"
+                },
+                {
+                    "show": "stand1"
+                }
+            ],
+            "speed": 19
+        },
+        {
+            "id": "walk",
+            "script": [
+                {
+                    "show": "walk4"
+                },
+                {
+                    "show": "walk3"
+                },
+                {
+                    "show": "walk2"
+                },
+                {
+                    "show": "walk1"
+                }
+            ],
+            "speed": 19
+        },
+        {
+            "id": "activated",
+            "script": [
+                {
+                    "show": "activate2"
+                },
+                {
+                    "show": "activate1"
+                }
+            ],
+            "speed": 19
+        },
+        {
+            "id": "fuse",
+            "script": [
+                {
+                    "show": "fuse1"
+                },
+                {
+                    "show": "fuse2"
+                }
+            ],
+            "speed": 3
+        },
+        {
+            "id": "shrapnel",
+            "script": [
+                {
+                    "show": "shrapnel1"
+                },
+                {
+                    "show": "shrapnel2"
+                }
+            ],
+            "speed": 3
+        }
+    ],
+    "sprites": [
+        {
+            "id": "activate1",
+            "image": "enemy-bomb-activate1.png",
+            "origin": {
+                "x": 12,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "activate2",
+            "image": "enemy-bomb-activate2.png",
+            "origin": {
+                "x": 12,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "fuse1",
+            "image": "enemy-bomb-fuse1.png",
+            "origin": {
+                "x": 4,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 35,
+                    "top": -25,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "fuse2",
+            "image": "enemy-bomb-fuse2.png",
+            "origin": {
+                "x": 4,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 37,
+                    "top": -25,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "shrapnel1",
+            "image": "enemy-bomb-shrapnel1.png",
+            "origin": {
+                "x": 4,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 39,
+                    "top": -4,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "shrapnel2",
+            "image": "enemy-bomb-shrapnel2.png",
+            "origin": {
+                "x": 4,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": -4,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "stand1",
+            "image": "enemy-bomb-stand1.png",
+            "origin": {
+                "x": 12,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -25,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stand2",
+            "image": "enemy-bomb-stand2.png",
+            "origin": {
+                "x": 12,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -25,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk1",
+            "image": "enemy-bomb-walk1.png",
+            "origin": {
+                "x": 12,
+                "y": 26
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -26,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": 8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk2",
+            "image": "enemy-bomb-walk2.png",
+            "origin": {
+                "x": 12,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -25,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk3",
+            "image": "enemy-bomb-walk3.png",
+            "origin": {
+                "x": 12,
+                "y": 26
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -26,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": 8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk4",
+            "image": "enemy-bomb-walk4.png",
+            "origin": {
+                "x": 12,
+                "y": 25
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -25,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 30,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -15,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

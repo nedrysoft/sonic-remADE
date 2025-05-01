@@ -1,0 +1,486 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "body1",
+            "image": "enemy-caterkiller-body1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body2",
+            "image": "enemy-caterkiller-body2.png",
+            "origin": {
+                "x": 8,
+                "y": 9
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -9,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body3",
+            "image": "enemy-caterkiller-body3.png",
+            "origin": {
+                "x": 8,
+                "y": 10
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -10,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body4",
+            "image": "enemy-caterkiller-body4.png",
+            "origin": {
+                "x": 8,
+                "y": 11
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body5",
+            "image": "enemy-caterkiller-body5.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body6",
+            "image": "enemy-caterkiller-body6.png",
+            "origin": {
+                "x": 8,
+                "y": 13
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -13,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body7",
+            "image": "enemy-caterkiller-body7.png",
+            "origin": {
+                "x": 8,
+                "y": 14
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -14,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "body8",
+            "image": "enemy-caterkiller-body8.png",
+            "origin": {
+                "x": 8,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -15,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head1",
+            "image": "enemy-caterkiller-head1.png",
+            "origin": {
+                "x": 8,
+                "y": 14
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -14,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head2",
+            "image": "enemy-caterkiller-head2.png",
+            "origin": {
+                "x": 8,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -15,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head3",
+            "image": "enemy-caterkiller-head3.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head4",
+            "image": "enemy-caterkiller-head4.png",
+            "origin": {
+                "x": 8,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head5",
+            "image": "enemy-caterkiller-head5.png",
+            "origin": {
+                "x": 8,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head6",
+            "image": "enemy-caterkiller-head6.png",
+            "origin": {
+                "x": 8,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head7",
+            "image": "enemy-caterkiller-head7.png",
+            "origin": {
+                "x": 8,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "head8",
+            "image": "enemy-caterkiller-head8.png",
+            "origin": {
+                "x": 8,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth1",
+            "image": "enemy-caterkiller-mouth1.png",
+            "origin": {
+                "x": 8,
+                "y": 14
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -14,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth2",
+            "image": "enemy-caterkiller-mouth2.png",
+            "origin": {
+                "x": 8,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -15,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth3",
+            "image": "enemy-caterkiller-mouth3.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth4",
+            "image": "enemy-caterkiller-mouth4.png",
+            "origin": {
+                "x": 8,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -17,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth5",
+            "image": "enemy-caterkiller-mouth5.png",
+            "origin": {
+                "x": 8,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -18,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth6",
+            "image": "enemy-caterkiller-mouth6.png",
+            "origin": {
+                "x": 8,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -19,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth7",
+            "image": "enemy-caterkiller-mouth7.png",
+            "origin": {
+                "x": 8,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -20,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "mouth8",
+            "image": "enemy-caterkiller-mouth8.png",
+            "origin": {
+                "x": 8,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -21,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

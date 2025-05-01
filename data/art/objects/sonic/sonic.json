@@ -1,0 +1,4084 @@
+{
+    "animations": [
+        {
+            "id": "walk",
+            "speed" : -1,
+            "script": [
+                {
+                    "show" : "walk13"
+                },
+                {
+                    "show" : "walk14"
+                },
+                {
+                    "show" : "walk15"
+                },
+                {
+                    "show" : "walk16"
+                },
+                {
+                    "show" : "walk11"
+                },
+                {
+                    "show" : "walk12"
+                }
+            ]
+        },
+        {
+            "id": "walk2",
+            "speed" : -1,
+            "script": [
+                {
+                    "show" : "walk23"
+                },
+                {
+                    "show" : "walk24"
+                },
+                {
+                    "show" : "walk25"
+                },
+                {
+                    "show" : "walk26"
+                },
+                {
+                    "show" : "walk21"
+                },
+                {
+                    "show" : "walk22"
+                }
+            ]
+        },
+        {
+            "id": "walk3",
+            "speed" : -1,
+            "script": [
+                {
+                    "show" : "walk33"
+                },
+                {
+                    "show" : "walk34"
+                },
+                {
+                    "show" : "walk35"
+                },
+                {
+                    "show" : "walk36"
+                },
+                {
+                    "show" : "walk31"
+                },
+                {
+                    "show" : "walk32"
+                }
+            ]
+        },
+        {
+            "id": "walk4",
+            "speed" : -1,
+            "script": [
+                {
+                    "show" : "walk43"
+                },
+                {
+                    "show" : "walk44"
+                },
+                {
+                    "show" : "walk45"
+                },
+                {
+                    "show" : "walk46"
+                },
+                {
+                    "show" : "walk41"
+                },
+                {
+                    "show" : "walk42"
+                }
+            ]
+        },
+        {
+            "id": "run",
+            "speed" : -1,
+            "script" : [
+                {
+                    "show" : "run11"
+                },
+                {
+                    "show" : "run12"
+                },
+                {
+                    "show" : "run13"
+                },
+                {
+                    "show" : "run14"
+                }
+            ]
+        },
+        {
+            "id": "run2",
+            "speed" : -1,
+            "script" : [
+                {
+                    "show" : "run21"
+                },
+                {
+                    "show" : "run22"
+                },
+                {
+                    "show" : "run23"
+                },
+                {
+                    "show" : "run24"
+                }
+            ]
+        },
+        {
+            "id": "run3",
+            "speed" : -1,
+            "script" : [
+                {
+                    "show" : "run31"
+                },
+                {
+                    "show" : "run32"
+                },
+                {
+                    "show" : "run33"
+                },
+                {
+                    "show" : "run34"
+                }
+            ]
+        },
+        {
+            "id": "run4",
+            "speed" : -1,
+            "script" : [
+                {
+                    "show" : "run41"
+                },
+                {
+                    "show" : "run42"
+                },
+                {
+                    "show" : "run43"
+                },
+                {
+                    "show" : "run44"
+                }
+            ]
+        },
+        {
+            "id": "roll",
+            "speed": -2,
+            "script" : [
+                {
+                    "show": "roll1"
+                },
+                {
+                    "show": "roll2"
+                },
+                {
+                    "show": "roll3"
+                },
+                {
+                    "show": "roll4"
+                },
+                {
+                    "show": "roll5"
+                }
+            ]
+        },
+        {
+            "id": "roll2",
+            "speed" : -2,
+            "script" : [
+                {
+                    "show" : "roll1"
+                },
+                {
+                    "show" : "roll2"
+                },
+                {
+                    "show" : "roll5"
+                },
+                {
+                    "show" : "roll3"
+                },
+                {
+                    "show" : "roll4"
+                },
+                {
+                    "show" : "roll5"
+                }
+            ]
+        },
+        {
+            "id": "push",
+            "speed": -3,
+            "script" : [
+                {
+                    "show": "push1"
+                },
+                {
+                    "show": "push2"
+                },
+                {
+                    "show": "push3"
+                },
+                {
+                    "show": "push4"
+                }
+            ]
+        },
+        {
+            "id": "wait",
+            "speed": 23,
+            "script" : [
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "stand"
+                },
+                {
+                  "show" : "wait2"
+                },
+                {
+                  "show" : "wait1"
+                },
+                {
+                  "show" : "wait1"
+                },
+                {
+                  "show" : "wait1"
+                },
+                {
+                  "show" : "wait2"
+                },
+                {
+                  "show" : "wait3"
+                },
+                {
+                  "next" : -2
+                }
+            ]
+        },
+        {
+            "id": "balance",
+            "speed": 31,
+            "script" : [
+                {
+                    "show": "balance1"
+                },
+                {
+                    "show": "balance2"
+                }
+            ]
+        },
+        {
+            "id": "lookup",
+            "speed" : 63,
+            "script" : [
+                {
+                    "show": "lookup"
+                }
+            ]
+        },
+        {
+            "id": "duck",
+            "speed": 63,
+            "script" : [
+                {
+                    "show": "duck"
+                }
+            ]
+        },
+        {
+            "id": "warp1",
+            "speed": 63,
+            "script" : [
+                {
+                    "show": "warp1"
+                }
+            ]
+        },
+        {
+            "id": "warp2",
+            "speed": 63,
+            "script" : [
+                {
+                    "show": "warp2"
+                }
+            ]
+        },
+        {
+            "id": "warp3",
+            "speed": 63,
+            "script" : [
+                {
+                    "show": "warp3"
+                }
+            ]
+        },
+        {
+            "id": "warp4",
+            "speed": 63,
+            "script" : [
+                {
+                    "show": "warp4"
+                }
+            ]
+        },
+        {
+            "id": "stop",
+            "speed": 7,
+            "script" : [
+                {
+                    "show": "stop1"
+                },
+                {
+                    "show": "stop2"
+                }
+            ]
+        },
+        {
+            "id": "float1",
+            "speed": 7,
+            "script" : [
+                {
+                    "show": "float1"
+                },
+                {
+                    "show": "float4"
+                }
+            ]
+        },
+        {
+            "id": "float2",
+            "speed": 7,
+            "script" : [
+                {
+                    "show": "float1"
+                },
+                {
+                    "show": "float2"
+                },
+                {
+                    "show": "float5"
+                },
+                {
+                    "show": "float3"
+                },
+                {
+                    "show": "float6"
+                }
+            ]
+        },
+        {
+            "id": "spring",
+            "speed": 47,
+            "script" : [
+                {
+                    "show": "spring"
+                }
+            ]
+        },
+        {
+            "id": "hang",
+            "speed": 4,
+            "script" : [
+                {
+                    "show": "hang1"
+                },
+                {
+                    "show": "hang2"
+                }
+            ]
+        },
+        {
+            "id": "leap1",
+            "speed": 15,
+            "script" : [
+                {
+                    "show": "leap1"
+                },
+                {
+                    "show": "leap1"
+                },
+                {
+                    "show": "leap1"
+                },
+                {
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": "leap2",
+            "script" : [
+                {
+                    "show": "leap1"
+                },
+                {
+                    "show": "leap2"
+                },
+                {
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": "surf",
+            "speed" : 63,
+            "script" : [
+                {
+                    "show": "surf"
+                }
+            ]
+        },
+        {
+            "id": "getair",
+            "speed": 11,
+            "script" : [
+                {
+                    "show": "getair"
+                },
+                {
+                    "show": "getair"
+                },
+                {
+                    "show": "walk15"
+                },
+                {
+                    "show": "walk16"
+                },
+                {
+                    "change": "walk"
+                }
+            ]
+        },
+        {
+            "id": "burnt",
+            "speed" : 32,
+            "script" : [
+                {
+                    "show": "burnt"
+                }
+            ]
+        },
+        {
+            "id": "drown",
+            "speed": 47,
+            "script" : [
+                {
+                    "show": "drown"
+                }
+            ]
+        },
+        {
+            "id": "death",
+            "speed": 3,
+            "script" : [
+                {
+                    "show": "death"
+                }
+            ]
+        },
+        {
+            "id": "shrink",
+            "speed": 3,
+            "script" : [
+                {
+                    "show": "shrink1"
+                },
+                {
+                    "show": "shrink2"
+                },
+                {
+                    "show": "shrink3"
+                },
+                {
+                    "show": "shrink4"
+                },
+                {
+                    "show": "shrink5"
+                },
+                {
+                    "show": "null"
+                },
+                {
+                    "next": -1
+                }
+            ]
+        },
+        {
+            "id": "hurt",
+            "speed": 3,
+            "script" : [
+                {
+                    "show": "injury"
+                }
+            ]
+        },
+        {
+            "id": "waterslide",
+            "speed": 7,
+            "script" : [
+                {
+                    "show": "injury"
+                },
+                {
+                    "show": "waterslide"
+                }
+            ]
+        },
+        {
+            "id": "null",
+            "speed" : 119,
+            "script" : [
+                {
+                    "show": "null"
+                },
+                {
+                    "change": "walk"
+                }
+            ]
+        },
+        {
+            "id": "float3",
+            "speed": 3,
+            "script" : [
+                {
+                    "show": "float1"
+                },
+                {
+                    "show": "float2"
+                },
+                {
+                    "show": "float5"
+                },
+                {
+                    "show": "float3"
+                },
+                {
+                    "show": "float6"
+                }
+            ]
+        },
+        {
+            "id": "float4",
+            "speed": 3,
+            "script" : [
+                {
+                    "show": "float1"
+                },
+                {
+                    "change": "walk"
+                }
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "id": "balance1",
+            "image": "sonic-balance1.png",
+            "origin": {
+                "x": 32,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 3,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "balance2",
+            "image": "sonic-balance2.png",
+            "origin": {
+                "x": 32,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "bub-stand",
+            "image": "sonic-bub-stand.png",
+            "origin": {
+                "x": 16,
+                "y": 28
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 13,
+                    "top": -28,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "burnt",
+            "image": "sonic-burnt.png",
+            "origin": {
+                "x": 20,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -24,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "death",
+            "image": "sonic-death.png",
+            "origin": {
+                "x": 20,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -24,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "drown",
+            "image": "sonic-drown.png",
+            "origin": {
+                "x": 20,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -24,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "duck",
+            "image": "sonic-duck.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 13,
+                    "top": 4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 2,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "float1",
+            "image": "sonic-float1.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "float2",
+            "image": "sonic-float2.png",
+            "origin": {
+                "x": 24,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "float3",
+            "image": "sonic-float3.png",
+            "origin": {
+                "x": 28,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -28,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "float4",
+            "image": "sonic-float4.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "float5",
+            "image": "sonic-float5.png",
+            "origin": {
+                "x": 28,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -28,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "float6",
+            "image": "sonic-float6.png",
+            "origin": {
+                "x": 12,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "get-air",
+            "image": "sonic-get-air.png",
+            "origin": {
+                "x": 20,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 3,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -5,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "hang1",
+            "image": "sonic-hang1.png",
+            "origin": {
+                "x": 24,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "hang2",
+            "image": "sonic-hang2.png",
+            "origin": {
+                "x": 24,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "injury",
+            "image": "sonic-injury.png",
+            "origin": {
+                "x": 20,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": 8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "leap1",
+            "image": "sonic-leap1.png",
+            "origin": {
+                "x": 20,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 19,
+                    "top": 0,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 11,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "leap2",
+            "image": "sonic-leap2.png",
+            "origin": {
+                "x": 20,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 19,
+                    "top": 0,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 11,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "look-up",
+            "image": "sonic-look-up.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "push1",
+            "image": "sonic-push1.png",
+            "origin": {
+                "x": 21,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 5,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "push2",
+            "image": "sonic-push2.png",
+            "origin": {
+                "x": 13,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "push3",
+            "image": "sonic-push3.png",
+            "origin": {
+                "x": 21,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 5,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "push4",
+            "image": "sonic-push4.png",
+            "origin": {
+                "x": 13,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "roll1",
+            "image": "sonic-roll1.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll2",
+            "image": "sonic-roll2.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll3",
+            "image": "sonic-roll3.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll4",
+            "image": "sonic-roll4.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "roll5",
+            "image": "sonic-roll5.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "run11",
+            "image": "sonic-run11.png",
+            "origin": {
+                "x": 20,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run12",
+            "image": "sonic-run12.png",
+            "origin": {
+                "x": 20,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run13",
+            "image": "sonic-run13.png",
+            "origin": {
+                "x": 20,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run14",
+            "image": "sonic-run14.png",
+            "origin": {
+                "x": 20,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run21",
+            "image": "sonic-run21.png",
+            "origin": {
+                "x": 18,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": -2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -10,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 6,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -18,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run22",
+            "image": "sonic-run22.png",
+            "origin": {
+                "x": 18,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -10,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 6,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -18,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run23",
+            "image": "sonic-run23.png",
+            "origin": {
+                "x": 18,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": -2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -10,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 6,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -18,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run24",
+            "image": "sonic-run24.png",
+            "origin": {
+                "x": 18,
+                "y": 18
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -10,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -2,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 6,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -18,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -18,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "run31",
+            "image": "sonic-run31.png",
+            "origin": {
+                "x": 18,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run32",
+            "image": "sonic-run32.png",
+            "origin": {
+                "x": 18,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run33",
+            "image": "sonic-run33.png",
+            "origin": {
+                "x": 18,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run34",
+            "image": "sonic-run34.png",
+            "origin": {
+                "x": 18,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run41",
+            "image": "sonic-run41.png",
+            "origin": {
+                "x": 18,
+                "y": 22
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 10,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -22,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -14,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -6,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run42",
+            "image": "sonic-run42.png",
+            "origin": {
+                "x": 18,
+                "y": 22
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -22,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -14,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run43",
+            "image": "sonic-run43.png",
+            "origin": {
+                "x": 18,
+                "y": 22
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 10,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -22,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -14,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -6,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "run44",
+            "image": "sonic-run44.png",
+            "origin": {
+                "x": 18,
+                "y": 22
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -2,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -22,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -18,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -14,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "shrink1",
+            "image": "sonic-shrink1.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 3,
+                    "top": -12,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shrink2",
+            "image": "sonic-shrink2.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 15,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 3,
+                    "top": -12,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shrink3",
+            "image": "sonic-shrink3.png",
+            "origin": {
+                "x": 12,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shrink4",
+            "image": "sonic-shrink4.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "shrink5",
+            "image": "sonic-shrink5.png",
+            "origin": {
+                "x": 4,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "spring",
+            "image": "sonic-spring.png",
+            "origin": {
+                "x": 16,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stand",
+            "image": "sonic-stand.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 11,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 3,
+                    "top": -12,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stop1",
+            "image": "sonic-stop1.png",
+            "origin": {
+                "x": 16,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -3,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stop2",
+            "image": "sonic-stop2.png",
+            "origin": {
+                "x": 24,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 5,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": 13,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -3,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "surf",
+            "image": "sonic-surf.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "wait1",
+            "image": "sonic-wait1.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "wait2",
+            "image": "sonic-wait2.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "wait3",
+            "image": "sonic-wait3.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk11",
+            "image": "sonic-walk11.png",
+            "origin": {
+                "x": 20,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": 11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": -5,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -5,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "walk12",
+            "image": "sonic-walk12.png",
+            "origin": {
+                "x": 19,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -11,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "walk13",
+            "image": "sonic-walk13.png",
+            "origin": {
+                "x": 13,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -3,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk14",
+            "image": "sonic-walk14.png",
+            "origin": {
+                "x": 20,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -5,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -5,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk15",
+            "image": "sonic-walk15.png",
+            "origin": {
+                "x": 21,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk16",
+            "image": "sonic-walk16.png",
+            "origin": {
+                "x": 20,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 5,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -3,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "walk21",
+            "image": "sonic-walk21.png",
+            "origin": {
+                "x": 21,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 21,
+                    "top": 19,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 15,
+                    "top": 3,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -5,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -21,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk22",
+            "image": "sonic-walk22.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 22,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -20,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk23",
+            "image": "sonic-walk23.png",
+            "origin": {
+                "x": 19,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 13,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -11,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -3,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -19,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk24",
+            "image": "sonic-walk24.png",
+            "origin": {
+                "x": 21,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 21,
+                    "top": 19,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 11,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -5,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -21,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -21,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk25",
+            "image": "sonic-walk25.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -20,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk26",
+            "image": "sonic-walk26.png",
+            "origin": {
+                "x": 19,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 13,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -11,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -3,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -3,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -19,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -19,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "walk31",
+            "image": "sonic-walk31.png",
+            "origin": {
+                "x": 21,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk32",
+            "image": "sonic-walk32.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk33",
+            "image": "sonic-walk33.png",
+            "origin": {
+                "x": 19,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk34",
+            "image": "sonic-walk34.png",
+            "origin": {
+                "x": 21,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 14,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk35",
+            "image": "sonic-walk35.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk36",
+            "image": "sonic-walk36.png",
+            "origin": {
+                "x": 19,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -20,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk41",
+            "image": "sonic-walk41.png",
+            "origin": {
+                "x": 21,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": -3,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 19,
+                    "top": 13,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -11,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -19,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -3,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk42",
+            "image": "sonic-walk42.png",
+            "origin": {
+                "x": 20,
+                "y": 28
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 22,
+                    "top": 12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 13,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 11,
+                    "top": -12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -20,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -28,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk43",
+            "image": "sonic-walk43.png",
+            "origin": {
+                "x": 19,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 3,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -21,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -13,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -5,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk44",
+            "image": "sonic-walk44.png",
+            "origin": {
+                "x": 21,
+                "y": 19
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 19,
+                    "top": 5,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -5,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 11,
+                    "top": -11,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -13,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -19,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -21,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -3,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk45",
+            "image": "sonic-walk45.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "walk46",
+            "image": "sonic-walk46.png",
+            "origin": {
+                "x": 19,
+                "y": 21
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 19,
+                    "top": 11,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 17,
+                    "top": 3,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 15,
+                    "top": -13,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -3,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 6,
+                    "top": -21,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -19,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -5,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "warp1",
+            "image": "sonic-warp1.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "warp2",
+            "image": "sonic-warp2.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "warp3",
+            "image": "sonic-warp3.png",
+            "origin": {
+                "x": 12,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": 12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "warp4",
+            "image": "sonic-warp4.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "water-slide",
+            "image": "sonic-water-slide.png",
+            "origin": {
+                "x": 20,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

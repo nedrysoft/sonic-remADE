@@ -1,0 +1,1937 @@
+[
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 18,
+            "type": "rings",
+            "x": 324,
+            "y": 864
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 584,
+            "y": 849
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 69,
+            "type": "rings",
+            "x": 820,
+            "y": 556
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "spring",
+            "x": 820,
+            "y": 808
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-motobug",
+            "x": 832,
+            "y": 940
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 1056,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 1072,
+            "y": 888
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 20,
+            "type": "rings",
+            "x": 1132,
+            "y": 800
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-chopper",
+            "x": 1184,
+            "y": 1120
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "waterfall-sound",
+            "x": 1192,
+            "y": 904
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 12,
+            "type": "bridge",
+            "x": 1192,
+            "y": 904
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 1296,
+            "y": 888
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 5,
+            "type": "monitor",
+            "x": 1494,
+            "y": 800
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1664,
+            "y": 903
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1696,
+            "y": 919
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1728,
+            "y": 933
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1763,
+            "y": 944
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1803,
+            "y": 947
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1847,
+            "y": 943
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 1883,
+            "y": 914
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-crabmeat",
+            "x": 2224,
+            "y": 848
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-crabmeat",
+            "x": 2400,
+            "y": 762
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 17,
+            "type": "rings",
+            "x": 2500,
+            "y": 704
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 2509,
+            "y": 765
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 2608,
+            "y": 776
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-chopper",
+            "x": 2680,
+            "y": 1024
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "waterfall-sound",
+            "x": 2728,
+            "y": 792
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 12,
+            "type": "bridge",
+            "x": 2728,
+            "y": 792
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-chopper",
+            "x": 2760,
+            "y": 960
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 2832,
+            "y": 776
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 17,
+            "type": "rings",
+            "x": 2964,
+            "y": 720
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 2976,
+            "y": 766
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "edge-wall",
+            "x": 3080,
+            "y": 760
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-motobug",
+            "x": 3152,
+            "y": 844
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "edge-wall",
+            "x": 3336,
+            "y": 944
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "edge-wall",
+            "x": 3336,
+            "y": 992
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 3368,
+            "y": 883
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 3392,
+            "y": 616
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3408,
+            "y": 694
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 3416,
+            "y": 886
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3440,
+            "y": 681
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 3464,
+            "y": 887
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3474,
+            "y": 663
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "spring",
+            "x": 3504,
+            "y": 891
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3508,
+            "y": 647
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 3536,
+            "y": 624
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 3544,
+            "y": 880
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3546,
+            "y": 631
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "spring",
+            "x": 3628,
+            "y": 632
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3761,
+            "y": 529
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "collapsing-ledge",
+            "x": 3792,
+            "y": 576
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3794,
+            "y": 522
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3829,
+            "y": 515
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3866,
+            "y": 517
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3903,
+            "y": 521
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 3912,
+            "y": 656
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 3926,
+            "y": 947
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 3928,
+            "y": 655
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 3942,
+            "y": 520
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 3944,
+            "y": 652
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 3960,
+            "y": 647
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "spring",
+            "x": 3968,
+            "y": 959
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 18,
+            "type": "rings",
+            "x": 3976,
+            "y": 728
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 4000,
+            "y": 513
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 4012,
+            "y": 951
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 4056,
+            "y": 626
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 1,
+            "type": "collapsing-ledge",
+            "x": 4144,
+            "y": 688
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "collapsing-ledge",
+            "x": 4256,
+            "y": 688
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 4352,
+            "y": 464
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 18,
+            "type": "rings",
+            "x": 4440,
+            "y": 812
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 4464,
+            "y": 887
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 4564,
+            "y": 880
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 1,
+            "type": "lamppost",
+            "x": 4584,
+            "y": 556
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "platform",
+            "x": 4640,
+            "y": 488
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 18,
+            "type": "rings",
+            "x": 4640,
+            "y": 812
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 4660,
+            "y": 883
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 4700,
+            "y": 574
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 5,
+            "type": "platform",
+            "x": 4704,
+            "y": 424
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 4736,
+            "y": 585
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 4770,
+            "y": 601
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 4800,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 4803,
+            "y": 617
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 4832,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 4842,
+            "y": 625
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 4856,
+            "y": 568
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 4864,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 4872,
+            "y": 368
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 5,
+            "type": "monitor",
+            "x": 4896,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 5024,
+            "y": 304
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 5024,
+            "y": 392
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 5152,
+            "y": 424
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-motobug",
+            "x": 5192,
+            "y": 772
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 5280,
+            "y": 456
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 5328,
+            "y": 820
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 5376,
+            "y": 817
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 5392,
+            "y": 380
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 5424,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5436,
+            "y": 608
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5454,
+            "y": 560
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 4,
+            "type": "monitor",
+            "x": 5504,
+            "y": 497
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5504,
+            "y": 541
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5551,
+            "y": 560
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5571,
+            "y": 608
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 5648,
+            "y": 304
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 6,
+            "type": "platform",
+            "x": 5664,
+            "y": 352
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "platform",
+            "x": 5728,
+            "y": 488
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "platform",
+            "x": 5776,
+            "y": 224
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5860,
+            "y": 437
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5900,
+            "y": 437
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5940,
+            "y": 427
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "platform",
+            "x": 5952,
+            "y": 160
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 5979,
+            "y": 412
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6020,
+            "y": 393
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6054,
+            "y": 377
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6112,
+            "y": 372
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "edge-wall",
+            "x": 6152,
+            "y": 448
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "edge-wall",
+            "x": 6152,
+            "y": 496
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6156,
+            "y": 372
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 22,
+            "type": "rings",
+            "x": 6176,
+            "y": 116
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6204,
+            "y": 374
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6252,
+            "y": 376
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 6272,
+            "y": 312
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6300,
+            "y": 378
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 22,
+            "type": "rings",
+            "x": 6344,
+            "y": 116
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6348,
+            "y": 372
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6396,
+            "y": 372
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 6400,
+            "y": 320
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6444,
+            "y": 373
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 6464,
+            "y": 312
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 20,
+            "type": "rings",
+            "x": 6480,
+            "y": 880
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6492,
+            "y": 378
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 21,
+            "type": "rings",
+            "x": 6512,
+            "y": 116
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 6528,
+            "y": 352
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 2,
+            "type": "lamppost",
+            "x": 6528,
+            "y": 883
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6540,
+            "y": 379
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6588,
+            "y": 374
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 6636,
+            "y": 372
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "edge-wall",
+            "x": 6904,
+            "y": 192
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "edge-wall",
+            "x": 6904,
+            "y": 224
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "edge-wall",
+            "x": 6904,
+            "y": 688
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "edge-wall",
+            "x": 6904,
+            "y": 752
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7008,
+            "y": 136
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7024,
+            "y": 648
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7072,
+            "y": 200
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7136,
+            "y": 264
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 7168,
+            "y": 704
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7200,
+            "y": 328
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7264,
+            "y": 392
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7328,
+            "y": 456
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7392,
+            "y": 520
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "platform",
+            "x": 7488,
+            "y": 520
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 22,
+            "type": "rings",
+            "x": 7512,
+            "y": 616
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 22,
+            "type": "rings",
+            "x": 7524,
+            "y": 600
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 21,
+            "type": "rings",
+            "x": 7536,
+            "y": 584
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 7544,
+            "y": 1142
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 20,
+            "type": "rings",
+            "x": 7548,
+            "y": 568
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 19,
+            "type": "rings",
+            "x": 7560,
+            "y": 552
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 7584,
+            "y": 800
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "platform",
+            "x": 7648,
+            "y": 516
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "edge-wall",
+            "x": 7672,
+            "y": 1200
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 7680,
+            "y": 616
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "edge-wall",
+            "x": 7688,
+            "y": 880
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 1,
+            "type": "enemy-newtron",
+            "x": 7704,
+            "y": 872
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 7712,
+            "y": 1204
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 1,
+            "type": "enemy-newtron",
+            "x": 7744,
+            "y": 1104
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "edge-wall",
+            "x": 7752,
+            "y": 832
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 1,
+            "type": "enemy-newtron",
+            "x": 7776,
+            "y": 816
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": true,
+            "subType": 1,
+            "type": "enemy-newtron",
+            "x": 7776,
+            "y": 1072
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 7840,
+            "y": 672
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 7896,
+            "y": 767
+        },
+        {
+            "flipped": false,
+            "mirrored": true,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 7984,
+            "y": 776
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 21,
+            "type": "rings",
+            "x": 8036,
+            "y": 1152
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 20,
+            "type": "rings",
+            "x": 8048,
+            "y": 692
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-chopper",
+            "x": 8064,
+            "y": 960
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "waterfall-sound",
+            "x": 8104,
+            "y": 792
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 12,
+            "type": "bridge",
+            "x": 8104,
+            "y": 792
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-chopper",
+            "x": 8128,
+            "y": 976
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "scenery",
+            "x": 8208,
+            "y": 778
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "spikes",
+            "x": 8224,
+            "y": 1200
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 8264,
+            "y": 912
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 8280,
+            "y": 910
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 8296,
+            "y": 907
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 8312,
+            "y": 902
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-newtron",
+            "x": 8320,
+            "y": 848
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 32,
+            "type": "spikes",
+            "x": 8328,
+            "y": 898
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "purple-rock",
+            "x": 8400,
+            "y": 880
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8501,
+            "y": 884
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8536,
+            "y": 893
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8570,
+            "y": 904
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-crabmeat",
+            "x": 8576,
+            "y": 1164
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8604,
+            "y": 919
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8638,
+            "y": 936
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 8674,
+            "y": 945
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 8776,
+            "y": 848
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 6,
+            "type": "monitor",
+            "x": 9012,
+            "y": 800
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9026,
+            "y": 1141
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9063,
+            "y": 1150
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "platform",
+            "x": 9080,
+            "y": 1032
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9094,
+            "y": 1165
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9125,
+            "y": 1181
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9158,
+            "y": 1198
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9196,
+            "y": 1206
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 0,
+            "type": "enemy-buzzbomber",
+            "x": 9200,
+            "y": 896
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9236,
+            "y": 1206
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9274,
+            "y": 1206
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9313,
+            "y": 1206
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": true,
+            "subType": 16,
+            "type": "rings",
+            "x": 9350,
+            "y": 1205
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "signpost",
+            "x": 9568,
+            "y": 1186
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "hidden-bonus",
+            "x": 9604,
+            "y": 1120
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "hidden-bonus",
+            "x": 9604,
+            "y": 1144
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 3,
+            "type": "hidden-bonus",
+            "x": 9604,
+            "y": 1168
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "giant-ring",
+            "x": 9640,
+            "y": 1104
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 1,
+            "type": "hidden-bonus",
+            "x": 9684,
+            "y": 1104
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 2,
+            "type": "hidden-bonus",
+            "x": 9684,
+            "y": 1136
+        },
+        {
+            "flipped": false,
+            "mirrored": false,
+            "rememberState": false,
+            "subType": 0,
+            "type": "sonic",
+            "x": 65535,
+            "y": 0
+        }
+]

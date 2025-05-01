@@ -1,0 +1,658 @@
+{
+    "animations": [
+        {
+            "id": "static",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "static2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "eggman",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "eggman"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "sonic",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "sonic"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "shoes",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "shoes"
+                },
+                {
+                    "show": "shoes"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "shoes"
+                },
+                {
+                    "show": "shoes"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "shoes"
+                },
+                {
+                    "show": "shoes"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "shield",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "shield"
+                },
+                {
+                    "show": "shield"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "shield"
+                },
+                {
+                    "show": "shield"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "shield"
+                },
+                {
+                    "show": "shield"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "invincible",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "invincible"
+                },
+                {
+                    "show": "invincible"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "invincible"
+                },
+                {
+                    "show": "invincible"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "invincible"
+                },
+                {
+                    "show": "invincible"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "rings",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "rings"
+                },
+                {
+                    "show": "rings"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "rings"
+                },
+                {
+                    "show": "rings"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "rings"
+                },
+                {
+                    "show": "rings"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "s",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "s"
+                },
+                {
+                    "show": "s"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "s"
+                },
+                {
+                    "show": "s"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "s"
+                },
+                {
+                    "show": "s"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "goggles",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "goggles"
+                },
+                {
+                    "show": "goggles"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "goggles"
+                },
+                {
+                    "show": "goggles"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "goggles"
+                },
+                {
+                    "show": "goggles"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "breaking",
+            "script": [
+                {
+                    "show": "static0"
+                },
+                {
+                    "show": "static1"
+                },
+                {
+                    "show": "static2"
+                },
+                {
+                    "show": "broken"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 2
+        },
+        {
+            "id": "broken",
+            "script": [
+                {
+                    "show": "broken"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 2
+        }
+    ],
+    "sprites": [
+        {
+            "id": "broken",
+            "image": "monitors-broken.png",
+            "origin": {
+                "x": 16,
+                "y": 1
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 56,
+                    "top": -1,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "eggman",
+            "image": "monitors-eggman.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 24,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "goggles",
+            "image": "monitors-goggles.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 32,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "invincible",
+            "image": "monitors-invincible.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 44,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "rings",
+            "image": "monitors-rings.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 48,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "s",
+            "image": "monitors-s.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 52,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "shield",
+            "image": "monitors-shield.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 40,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "shoes",
+            "image": "monitors-shoes.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 36,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "sonic",
+            "image": "monitors-sonic.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 28,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "static0",
+            "image": "monitors-static0.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "static1",
+            "image": "monitors-static1.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 16,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "static2",
+            "image": "monitors-static2.png",
+            "origin": {
+                "x": 16,
+                "y": 17
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -17,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 20,
+                    "top": -11,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

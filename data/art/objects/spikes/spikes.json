@@ -1,0 +1,290 @@
+{
+    "animations": [
+        {
+            "id": "1up",
+            "script": [
+                {
+                    "show": "1up"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "1left",
+            "script": [
+                {
+                    "show": "1left"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "3up",
+            "script": [
+                {
+                    "show": "3up"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "3left",
+            "script": [
+                {
+                    "show": "3left"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "3upwide",
+            "script": [
+                {
+                    "show": "3upwide"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "6upwide",
+            "script": [
+                {
+                    "show": "6upwide"
+                }
+            ],
+            "speed": 23
+        }
+    ],
+    "sprites": [
+        {
+            "id": "1left",
+            "image": "spikes-1left.png",
+            "origin": {
+                "x": 16,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -4,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "1up",
+            "image": "spikes-1up.png",
+            "origin": {
+                "x": 4,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "3left",
+            "image": "spikes-3left.png",
+            "origin": {
+                "x": 16,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 12,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "3up",
+            "image": "spikes-3up.png",
+            "origin": {
+                "x": 20,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "3upwide",
+            "image": "spikes-3upwide.png",
+            "origin": {
+                "x": 28,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -28,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "6upwide",
+            "image": "spikes-6upwide.png",
+            "origin": {
+                "x": 64,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 56,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -40,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -64,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        }
+    ]
+}

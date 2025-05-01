@@ -1,0 +1,520 @@
+{
+    "animations": [
+        {
+            "id": "blank",
+            "script": [
+                {
+                    "show": ""
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "drop",
+            "script": [
+                {
+                    "show": "trans"
+                },
+                {
+                    "show": "norm"
+                },
+                {
+                    "show": "drop1"
+                },
+                {
+                    "show": "drop2"
+                },
+                {
+                    "show": "drop3"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 19
+        },
+        {
+            "id": "fly1",
+            "script": [
+                {
+                    "show": "fly1a"
+                },
+                {
+                    "show": "fly1b"
+                }
+            ],
+            "speed": 2
+        },
+        {
+            "id": "fly2",
+            "script": [
+                {
+                    "show": "fly2a"
+                },
+                {
+                    "show": "fly2b"
+                }
+            ],
+            "speed": 2
+        },
+        {
+            "id": "fires",
+            "script": [
+                {
+                    "show": "trans"
+                },
+                {
+                    "show": "norm"
+                },
+                {
+                    "show": "norm"
+                },
+                {
+                    "show": "fires"
+                },
+                {
+                    "show": "norm"
+                },
+                {
+                    "show": "norm"
+                },
+                {
+                    "show": "trans"
+                }
+            ],
+            "speed": 19
+        }
+    ],
+    "sprites": [
+        {
+            "id": "drop1",
+            "image": "enemy-newtron-drop1.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 60,
+                    "top": 12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 54,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": -20,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "drop2",
+            "image": "enemy-newtron-drop2.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 69,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": -4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 61,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "drop3",
+            "image": "enemy-newtron-drop3.png",
+            "origin": {
+                "x": 20,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 80,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 72,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fires",
+            "image": "enemy-newtron-fires.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 42,
+                    "top": -20,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "fly1a",
+            "image": "enemy-newtron-fly1a.png",
+            "origin": {
+                "x": 20,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 82,
+                    "top": -2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 80,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 72,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fly1b",
+            "image": "enemy-newtron-fly1b.png",
+            "origin": {
+                "x": 20,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 83,
+                    "top": -2,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 80,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 72,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fly2a",
+            "image": "enemy-newtron-fly2a.png",
+            "origin": {
+                "x": 20,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 3,
+                    "priority": true,
+                    "tileIndex": 82,
+                    "top": -2,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 80,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 72,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fly2b",
+            "image": "enemy-newtron-fly2b.png",
+            "origin": {
+                "x": 20,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 20,
+                    "mirrored": false,
+                    "paletteLine": 3,
+                    "priority": true,
+                    "tileIndex": 83,
+                    "top": -2,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 80,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 72,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "norm",
+            "image": "enemy-newtron-norm.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 33,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": -20,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": -20,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "trans",
+            "image": "enemy-newtron-trans.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -20,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

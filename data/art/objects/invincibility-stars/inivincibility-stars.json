@@ -1,0 +1,744 @@
+{
+    "animations": [
+        {
+            "id": "shield",
+            "script": [
+                {
+                    "sprite-name": "shield1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "shield3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "shield4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "stars1",
+            "script": [
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                }
+            ],
+            "speed": 5
+        },
+        {
+            "id": "stars2",
+            "script": [
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "stars3",
+            "script": [
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "stars4",
+            "script": [
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars1",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars2",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars3",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "stars4",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                },
+                {
+                    "sprite-name": "blank",
+                    "type": "show"
+                }
+            ],
+            "speed": 0
+        }
+    ],
+    "sprites": [
+        {
+            "id": "blank",
+            "image": "inivincibility-stars-blank.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shield1",
+            "image": "inivincibility-stars-shield1.png",
+            "origin": {
+                "x": 24,
+                "y": 0
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shield3",
+            "image": "inivincibility-stars-shield3.png",
+            "origin": {
+                "x": 23,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -23,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -23,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shield4",
+            "image": "inivincibility-stars-shield4.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stars1",
+            "image": "inivincibility-stars-stars1.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stars2",
+            "image": "inivincibility-stars-stars2.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stars3",
+            "image": "inivincibility-stars-stars3.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "stars4",
+            "image": "inivincibility-stars-stars4.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

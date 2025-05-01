@@ -1,0 +1,244 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "blue",
+            "image": "lamppost-blue.png",
+            "origin": {
+                "x": 8,
+                "y": 44
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -44,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -44,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "poleonly",
+            "image": "lamppost-poleonly.png",
+            "origin": {
+                "x": 8,
+                "y": 28
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "red",
+            "image": "lamppost-red.png",
+            "origin": {
+                "x": 8,
+                "y": 44
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -44,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -44,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -12,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -28,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "redballonly",
+            "image": "lamppost-redballonly.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 1
+                }
+            ]
+        }
+    ]
+}

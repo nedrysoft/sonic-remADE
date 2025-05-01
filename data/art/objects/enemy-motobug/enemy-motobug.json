@@ -1,0 +1,308 @@
+{
+    "animations": [
+        {
+            "id": "stand",
+            "script": [
+                {
+                    "show": "moto3"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "walk",
+            "script": [
+                {
+                    "show": "moto1"
+                },
+                {
+                    "show": "moto2"
+                },
+                {
+                    "show": "moto1"
+                },
+                {
+                    "show": "moto3"
+                }
+            ],
+            "speed": 7
+        },
+        {
+            "id": "smoke",
+            "script": [
+                {
+                    "show": "smoke1"
+                },
+                {
+                    "show": "blank"
+                },
+                {
+                    "show": "smoke1"
+                },
+                {
+                    "show": "blank"
+                },
+                {
+                    "show": "smoke2"
+                },
+                {
+                    "show": "blank"
+                },
+                {
+                    "show": "smoke2"
+                },
+                {
+                    "show": "blank"
+                },
+                {
+                    "show": "smoke2"
+                },
+                {
+                    "show": "blank"
+                },
+                {
+                    "show": "smoke3"
+                }
+            ],
+            "speed": 1
+        }
+    ],
+    "sprites": [
+        {
+            "id": "moto1",
+            "image": "enemy-motobug-moto1.png",
+            "origin": {
+                "x": 20,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 14,
+                    "top": 8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "moto2",
+            "image": "enemy-motobug-moto2.png",
+            "origin": {
+                "x": 20,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 17,
+                    "top": 9,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -7,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": 1,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -15,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "moto3",
+            "image": "enemy-motobug-moto3.png",
+            "origin": {
+                "x": 20,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": 8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 20,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "smoke1",
+            "image": "enemy-motobug-smoke1.png",
+            "origin": {
+                "x": -16,
+                "y": 6
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 26,
+                    "top": -6,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "smoke2",
+            "image": "enemy-motobug-smoke2.png",
+            "origin": {
+                "x": -16,
+                "y": 6
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": -6,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "smoke3",
+            "image": "enemy-motobug-smoke3.png",
+            "origin": {
+                "x": -16,
+                "y": 6
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -6,
+                    "width": 1
+                }
+            ]
+        }
+    ]
+}

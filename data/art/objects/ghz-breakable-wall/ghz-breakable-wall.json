@@ -1,0 +1,276 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "left",
+            "image": "ghz-breakable-wall-left.png",
+            "origin": {
+                "x": 16,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -32,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "middle",
+            "image": "ghz-breakable-wall-middle.png",
+            "origin": {
+                "x": 16,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -32,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "right",
+            "image": "ghz-breakable-wall-right.png",
+            "origin": {
+                "x": 16,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -32,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

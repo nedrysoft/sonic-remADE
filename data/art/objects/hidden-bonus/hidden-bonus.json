@@ -1,0 +1,69 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "100",
+            "image": "hidden-bonus-100.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "1000",
+            "image": "hidden-bonus-1000.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "10000",
+            "image": "hidden-bonus-10000.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

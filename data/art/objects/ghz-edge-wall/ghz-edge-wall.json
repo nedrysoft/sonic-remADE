@@ -1,0 +1,183 @@
+{
+    "animations": [
+        {
+            "id": "dark",
+            "script": [
+                {
+                    "show": "dark"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "light",
+            "script": [
+                {
+                    "show": "light"
+                }
+            ],
+            "speed": 23
+        },
+        {
+            "id": "shadow",
+            "script": [
+                {
+                    "show": "shadow"
+                }
+            ],
+            "speed": 23
+        }
+    ],
+    "sprites": [
+        {
+            "id": "dark",
+            "image": "ghz-edge-wall-dark.png",
+            "origin": {
+                "x": 8,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "light",
+            "image": "ghz-edge-wall-light.png",
+            "origin": {
+                "x": 8,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "shadow",
+            "image": "ghz-edge-wall-shadow.png",
+            "origin": {
+                "x": 8,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

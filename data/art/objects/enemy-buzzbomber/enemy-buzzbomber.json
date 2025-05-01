@@ -1,0 +1,609 @@
+{
+    "animations": [
+        {
+            "id": "fly1",
+            "script": [
+                {
+                    "show": "fly1"
+                },
+                {
+                    "show": "fly2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "fly2",
+            "script": [
+                {
+                    "show": "fly3"
+                },
+                {
+                    "show": "fly4"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "fires",
+            "script": [
+                {
+                    "show": "fire1"
+                },
+                {
+                    "show": "fire2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "flare",
+            "script": [
+                {
+                    "show": "flare1"
+                },
+                {
+                    "show": "flare2"
+                },
+                {
+                    "change": "missile"
+                }
+            ],
+            "speed": 7
+        },
+        {
+            "id": "missile",
+            "script": [
+                {
+                    "show": "ball1"
+                },
+                {
+                    "show": "ball2"
+                }
+            ],
+            "speed": 1
+        }
+    ],
+    "sprites": [
+        {
+            "id": "fire1",
+            "image": "enemy-buzzbomber-fire1.png",
+            "origin": {
+                "x": 20,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 29,
+                    "top": -15,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 26,
+                    "top": -15,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 13,
+                    "top": 12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": 4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fire2",
+            "image": "enemy-buzzbomber-fire2.png",
+            "origin": {
+                "x": 20,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 13,
+                    "top": 12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": 4,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": 4,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "fly1",
+            "image": "enemy-buzzbomber-fly1.png",
+            "origin": {
+                "x": 24,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 29,
+                    "top": -15,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 26,
+                    "top": -15,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "fly2",
+            "image": "enemy-buzzbomber-fly2.png",
+            "origin": {
+                "x": 24,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 34,
+                    "top": -12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 31,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "fly3",
+            "image": "enemy-buzzbomber-fly3.png",
+            "origin": {
+                "x": 24,
+                "y": 15
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 29,
+                    "top": -15,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 26,
+                    "top": -15,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": 4,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "fly4",
+            "image": "enemy-buzzbomber-fly4.png",
+            "origin": {
+                "x": 24,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 34,
+                    "top": -12,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 31,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 21,
+                    "top": 4,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 15,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 49,
+                    "top": 4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "ball1",
+            "image": "enemy-buzzbomber-missile-ball1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 44,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "ball2",
+            "image": "enemy-buzzbomber-missile-ball2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 51,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flare1",
+            "image": "enemy-buzzbomber-missile-flare1.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 36,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flare2",
+            "image": "enemy-buzzbomber-missile-flare2.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

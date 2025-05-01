@@ -1,0 +1,146 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "blue",
+            "image": "ending-emeralds-blue.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flash",
+            "image": "ending-emeralds-flash.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "green",
+            "image": "ending-emeralds-green.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 2,
+                    "tileIndex": 20,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "grey",
+            "image": "ending-emeralds-grey.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "pink",
+            "image": "ending-emeralds-pink.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 1,
+                    "tileIndex": 24,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "red",
+            "image": "ending-emeralds-red.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "yellow",
+            "image": "ending-emeralds-yellow.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 2,
+                    "tileIndex": 16,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "animations": [
+        {
+            "id": "10",
+            "script": [
+                {
+                    "show": "10"
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "script": [
+                {
+                    "show": "100"
+                }
+            ]
+        },
+        {
+            "id": "200",
+            "script": [
+                {
+                    "show": "200"
+                }
+            ]
+        },
+        {
+            "id": "500",
+            "script": [
+                {
+                    "show": "500"
+                }
+            ]
+        },
+        {
+            "id": "1000",
+            "script": [
+                {
+                    "show": "1000"
+                }
+            ]
+        },
+        {
+            "id": "10000",
+            "script": [
+                {
+                    "show": "10000"
+                }
+            ]
+        },
+        {
+            "id": "100000",
+            "script": [
+                {
+                    "show": "100000"
+                }
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "id": "10",
+            "image": "points-10.png",
+            "origin": {
+                "x": 4,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "image": "points-100.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "1000",
+            "image": "points-1000.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "10000",
+            "image": "points-10000.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 1,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 7,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "100000",
+            "image": "points-100000.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 6,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 7,
+                    "top": -4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "200",
+            "image": "points-200.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 2,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "500",
+            "image": "points-500.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

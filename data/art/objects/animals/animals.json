@@ -1,0 +1,615 @@
+{
+    "animations": [
+        {
+            "id": "blackbird-drop",
+            "script": [
+                {
+                    "show": "blackbird-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "blackbird-flap",
+            "script": [
+                {
+                    "show": "blackbird-flap1"
+                },
+                {
+                    "show": "blackbird-flap2"
+                },
+                {
+                    "show": "blackbird-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "chicken-drop",
+            "script": [
+                {
+                    "show": "chicken-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "chicken-flap",
+            "script": [
+                {
+                    "show": "chicken-flap1"
+                },
+                {
+                    "show": "chicken-flap2"
+                },
+                {
+                    "show": "chicken-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "flicky-drop",
+            "script": [
+                {
+                    "show": "flicky-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "flicky-flap",
+            "script": [
+                {
+                    "show": "flicky-flap1"
+                },
+                {
+                    "show": "flicky-flap2"
+                },
+                {
+                    "show": "flicky-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "pig-drop",
+            "script": [
+                {
+                    "show": "pig-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "pig-flap",
+            "script": [
+                {
+                    "show": "pig-flap1"
+                },
+                {
+                    "show": "pig-flap2"
+                },
+                {
+                    "show": "pig-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "rabbit-drop",
+            "script": [
+                {
+                    "show": "rabbit-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "rabbit-flap",
+            "script": [
+                {
+                    "show": "rabbit-flap1"
+                },
+                {
+                    "show": "rabbit-flap2"
+                },
+                {
+                    "show": "rabbit-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "seal-drop",
+            "script": [
+                {
+                    "show": "seal-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "seal-flap",
+            "script": [
+                {
+                    "show": "seal-flap1"
+                },
+                {
+                    "show": "seal-flap2"
+                },
+                {
+                    "show": "seal-flap2"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "squirrel-drop",
+            "script": [
+                {
+                    "show": "squirrel-drop"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "squirrel-flap",
+            "script": [
+                {
+                    "show": "squirrel-flap1"
+                },
+                {
+                    "show": "squirrel-flap2"
+                },
+                {
+                    "show": "squirrel-flap2"
+                }
+            ],
+            "speed": 1
+        }
+    ],
+    "sprites": [
+        {
+            "id": "blackbird-drop",
+            "image": "animal-blackbird-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "blackbird-flap1",
+            "image": "animal-blackbird-flap1.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "blackbird-flap2",
+            "image": "animal-blackbird-flap2.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "chicken-drop",
+            "image": "animal-chicken-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "chicken-flap1",
+            "image": "animal-chicken-flap1.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "chicken-flap2",
+            "image": "animal-chicken-flap2.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 10,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flicky-drop",
+            "image": "animal-flicky-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flicky-flap1",
+            "image": "animal-flicky-flap1.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flicky-flap2",
+            "image": "animal-flicky-flap2.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 10,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "pig-drop",
+            "image": "animal-pig-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "pig-flap1",
+            "image": "animal-pig-flap1.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "pig-flap2",
+            "image": "animal-pig-flap2.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "rabbit-drop",
+            "image": "animal-rabbit-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "rabbit-flap1",
+            "image": "animal-rabbit-flap1.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "rabbit-flap2",
+            "image": "animal-rabbit-flap2.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "seal-drop",
+            "image": "animal-seal-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "seal-flap1",
+            "image": "animal-seal-flap1.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "seal-flap2",
+            "image": "animal-seal-flap2.png",
+            "origin": {
+                "x": 8,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 10,
+                    "top": -4,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "squirrel-drop",
+            "image": "animal-squirrel-drop.png",
+            "origin": {
+                "x": 8,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "squirrel-flap1",
+            "image": "animal-squirrel-flap1.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "squirrel-flap2",
+            "image": "animal-squirrel-flap2.png",
+            "origin": {
+                "x": 12,
+                "y": 4
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -4,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

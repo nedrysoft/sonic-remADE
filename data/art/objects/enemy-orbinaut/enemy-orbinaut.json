@@ -1,0 +1,114 @@
+{
+    "animations": [
+        {
+            "id": "normal",
+            "script": [
+                {
+                    "show": "normal"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "angers",
+            "script": [
+                {
+                    "show": "medium"
+                },
+                {
+                    "show": "angry"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 15
+        }
+    ],
+    "sprites": [
+        {
+            "id": "angry",
+            "image": "enemy-orbinaut-angry.png",
+            "origin": {
+                "x": 12,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 18,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "medium",
+            "image": "enemy-orbinaut-medium.png",
+            "origin": {
+                "x": 12,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 1,
+                    "priority": false,
+                    "tileIndex": 9,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "normal",
+            "image": "enemy-orbinaut-normal.png",
+            "origin": {
+                "x": 12,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "spikeball",
+            "image": "enemy-orbinaut-spikeball.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 27,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

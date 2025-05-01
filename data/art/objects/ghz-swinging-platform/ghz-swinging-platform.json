@@ -1,0 +1,76 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "anchor",
+            "image": "ghz-swinging-platform-anchor.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 10,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "block",
+            "image": "ghz-swinging-platform-block.png",
+            "origin": {
+                "x": 24,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 4,
+                    "top": -8,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "chain",
+            "image": "ghz-swinging-platform-chain.png",
+            "origin": {
+                "x": 8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,815 @@
+{
+    "animations": [
+        {
+            "id": "spin",
+            "script": [
+                {
+                    "show": "angle2"
+                },
+                {
+                    "show": "side"
+                },
+                {
+                    "show": "angle1"
+                },
+                {
+                    "show": "front"
+                }
+            ],
+            "speed": 8
+        },
+        {
+            "id": "flash",
+            "script": [
+                {
+                    "show": "flash6"
+                },
+                {
+                    "show": "flash5"
+                },
+                {
+                    "show": "flash4"
+                },
+                {
+                    "show": "full"
+                },
+                {
+                    "show": "flash2"
+                },
+                {
+                    "show": "flash1"
+                },
+                {
+                    "show": "flash0"
+                },
+                {
+                    "show": "final"
+                },
+                {
+                    "change": "spin"
+                }
+            ],
+            "speed": 2
+        }
+    ],
+    "sprites": [
+        {
+            "id": "angle1",
+            "image": "giant-ring-angle1.png",
+            "origin": {
+                "x": 24,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 78,
+                    "top": 24,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 75,
+                    "top": 16,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 69,
+                    "top": 8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 65,
+                    "top": -8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 57,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 51,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 44,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "angle2",
+            "image": "giant-ring-angle2.png",
+            "origin": {
+                "x": 24,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 78,
+                    "top": 24,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 75,
+                    "top": 16,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 69,
+                    "top": 8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 65,
+                    "top": -8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 57,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 51,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 48,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 44,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "front",
+            "image": "giant-ring-front.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 41,
+                    "top": 24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 38,
+                    "top": 24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 34,
+                    "top": 16,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 30,
+                    "top": 16,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 22,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 14,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 10,
+                    "top": -24,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -24,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 3,
+                    "top": -32,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -32,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "side",
+            "image": "giant-ring-side.png",
+            "origin": {
+                "x": 12,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 90,
+                    "top": 0,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 90,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 82,
+                    "top": -32,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 82,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "final",
+            "image": "giant-ring-flash-final.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 68,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 68,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 68,
+                    "top": -32,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 68,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "flash0",
+            "image": "giant-ring-flash-flash0.png",
+            "origin": {
+                "x": 0,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "flash1",
+            "image": "giant-ring-flash-flash1.png",
+            "origin": {
+                "x": 16,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": -32,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "flash2",
+            "image": "giant-ring-flash-flash2.png",
+            "origin": {
+                "x": 24,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": -32,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "flash4",
+            "image": "giant-ring-flash-flash4.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -8,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 40,
+                    "top": -32,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": -32,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "flash5",
+            "image": "giant-ring-flash-flash5.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": 0,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": -32,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": -32,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "flash6",
+            "image": "giant-ring-flash-flash6.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "full",
+            "image": "giant-ring-flash-full.png",
+            "origin": {
+                "x": 32,
+                "y": 32
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 52,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": true,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 52,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 52,
+                    "top": -32,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -32,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 52,
+                    "top": -32,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

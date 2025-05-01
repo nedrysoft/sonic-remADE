@@ -1,0 +1,198 @@
+{
+    "animations": [
+        {
+            "id": "explosion",
+            "script": [
+                {
+                    "show": "frame1"
+                },
+                {
+                    "show": "frame2"
+                },
+                {
+                    "show": "frame3"
+                },
+                {
+                    "show": "frame4"
+                },
+                {
+                    "show": "frame5"
+                }
+            ],
+            "speed": 7
+        }
+    ],
+    "sprites": [
+        {
+            "id": "frame1",
+            "image": "explosion-frame1.png",
+            "origin": {
+                "x": 12,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "frame2",
+            "image": "explosion-frame2.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 6,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "frame3",
+            "image": "explosion-frame3.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 22,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "frame4",
+            "image": "explosion-frame4.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 38,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 47,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 47,
+                    "top": -20,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 38,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "frame5",
+            "image": "explosion-frame5.png",
+            "origin": {
+                "x": 20,
+                "y": 20
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 51,
+                    "top": -4,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": -20,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 60,
+                    "top": 4,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 60,
+                    "top": -20,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -20,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 51,
+                    "top": -20,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

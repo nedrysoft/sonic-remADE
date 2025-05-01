@@ -1,0 +1,582 @@
+{
+    "animations": [
+        {
+            "id": "red-up",
+            "script": [
+                {
+                    "show": "red-up"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "red-up-activated",
+            "script": [
+                {
+                    "show": "red-up-flat"
+                },
+                {
+                    "show": "red-up"
+                },
+                {
+                    "show": "red-up"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up-extended"
+                },
+                {
+                    "show": "red-up"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "red-left",
+            "script": [
+                {
+                    "show": "red-left"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "red-left-activated",
+            "script": [
+                {
+                    "show": "red-left-flat"
+                },
+                {
+                    "show": "red-left"
+                },
+                {
+                    "show": "red-left"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left-extended"
+                },
+                {
+                    "show": "red-left"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "yellow-up",
+            "script": [
+                {
+                    "show": "yellow-up"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "yellow-up-activated",
+            "script": [
+                {
+                    "show": "yellow-up-flat"
+                },
+                {
+                    "show": "yellow-up"
+                },
+                {
+                    "show": "yellow-up"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up-extended"
+                },
+                {
+                    "show": "yellow-up"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "yellow-left",
+            "script": [
+                {
+                    "show": "yellow-left"
+                }
+            ],
+            "speed": 0
+        },
+        {
+            "id": "yellow-left-activated",
+            "script": [
+                {
+                    "show": "yellow-left-flat"
+                },
+                {
+                    "show": "yellow-left"
+                },
+                {
+                    "show": "yellow-left"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left-extended"
+                },
+                {
+                    "show": "yellow-left"
+                },
+                {
+                    "next": -1
+                }
+            ],
+            "speed": 0
+        }
+    ],
+    "sprites": [
+        {
+            "id": "red-left",
+            "image": "spring-red-left.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "red-left-extended",
+            "image": "spring-red-left-extended.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 3,
+                    "top": 8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "red-left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "red-left-flat",
+            "image": "spring-red-left-flat.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "red-up",
+            "image": "spring-red-up.png",
+            "origin": {
+                "x": 16,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "red-up-extended",
+            "image": "spring-red-up-extended.png",
+            "origin": {
+                "x": 16,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "red-left": -8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "red-up-flat",
+            "image": "spring-red-up-flat.png",
+            "origin": {
+                "x": 16,
+                "y": 0
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "red-left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "yellow-left",
+            "image": "spring-yellow-left.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        },
+        {
+            "id": "yellow-left-extended",
+            "image": "spring-yellow-left-extended.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 3,
+                    "top": 8,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "yellow-left": 16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "yellow-left-flat",
+            "image": "spring-yellow-left-flat.png",
+            "origin": {
+                "x": 8,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "yellow-up",
+            "image": "spring-yellow-up.png",
+            "origin": {
+                "x": 16,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 4,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "yellow-up-extended",
+            "image": "spring-yellow-up-extended.png",
+            "origin": {
+                "x": 16,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": 0,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "yellow-left": -8,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -16,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "yellow-up-flat",
+            "image": "spring-yellow-up-flat.png",
+            "origin": {
+                "x": 16,
+                "y": 0
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "yellow-left": -16,
+                    "mirroyellow": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

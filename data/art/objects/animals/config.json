@@ -1,0 +1,83 @@
+{
+  "map" : [
+    {
+      "level" : "ghz",
+      "types" : [
+        "rabbit",
+        "flicky"
+      ]
+    },
+    {
+      "level" : "lz",
+      "types" : [
+        "blackbird",
+        "seal"
+      ]
+    },
+    {
+      "level" : "mz",
+      "types" : [
+        "squirrel",
+        "seal"
+      ]
+    },
+    {
+      "level" : "slz",
+      "types" : [
+        "pig",
+        "flicky"
+      ]
+    },
+    {
+      "level" : "syz",
+      "types" : [
+        "pig",
+        "chicken"
+      ]
+    },
+    {
+      "level" : "sbz",
+      "types" : [
+        "rabbit",
+        "chicken"
+      ]
+    }
+  ],
+  "types" : [
+    {
+      "id" : "rabbit",
+      "xSpeed" : -2.0,
+      "ySpeed" : -4.0
+    },
+    {
+      "id" : "chicken",
+      "xSpeed" : -2.0,
+      "ySpeed" : -3.0
+    },
+    {
+      "id" : "blackbird",
+      "xSpeed" : -1.5,
+      "ySpeed" : -3.0
+    },
+    {
+      "id" : "seal",
+      "xSpeed" : -1.25,
+      "ySpeed" : -1.5
+    },
+    {
+      "id" : "pig",
+      "xSpeed" : -1.75,
+      "ySpeed" : -3.0
+    },
+    {
+      "id" : "flicky",
+      "xSpeed" : -3.0,
+      "ySpeed" : -4.0
+    },
+    {
+      "id" : "squirrel",
+      "xSpeed" : -2.5,
+      "ySpeed" : -3.5
+    }
+  ]
+}

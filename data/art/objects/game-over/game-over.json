@@ -1,0 +1,134 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "game",
+            "image": "game-over-game.png",
+            "origin": {
+                "x": 72,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -40,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -72,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "over",
+            "image": "game-over-over.png",
+            "origin": {
+                "x": -8,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 40,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 8,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 20,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "over2",
+            "image": "game-over-over2.png",
+            "origin": {
+                "x": -12,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 44,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 12,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 20,
+                    "top": -8,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "time",
+            "image": "game-over-time.png",
+            "origin": {
+                "x": 60,
+                "y": 8
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -36,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 8,
+                    "top": -8,
+                    "width": 4
+                },
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -60,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -8,
+                    "width": 3
+                }
+            ]
+        }
+    ]
+}

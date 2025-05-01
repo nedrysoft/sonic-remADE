@@ -1,0 +1,242 @@
+{
+    "animations": [
+        {
+            "id": "eggman",
+            "script": [
+                {
+                    "show": "eggman"
+                }
+            ],
+            "speed": 15
+        },
+        {
+            "id": "spin1",
+            "script": [
+                {
+                    "show": "eggman"
+                },
+                {
+                    "show": "spin1"
+                },
+                {
+                    "show": "spin2"
+                },
+                {
+                    "show": "spin3"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "spin2",
+            "script": [
+                {
+                    "show": "sonic"
+                },
+                {
+                    "show": "spin1"
+                },
+                {
+                    "show": "spin2"
+                },
+                {
+                    "show": "spin3"
+                }
+            ],
+            "speed": 1
+        },
+        {
+            "id": "sonic",
+            "script": [
+                {
+                    "show": "sonic"
+                }
+            ],
+            "speed": 15
+        }
+    ],
+    "sprites": [
+        {
+            "id": "eggman",
+            "image": "signpost-eggman.png",
+            "origin": {
+                "x": 24,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "sonic",
+            "image": "signpost-sonic.png",
+            "origin": {
+                "x": 24,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 44,
+                    "top": -16,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 32,
+                    "top": -16,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "spin1",
+            "image": "signpost-spin1.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "spin2",
+            "image": "signpost-spin2.png",
+            "origin": {
+                "x": 4,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -4,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -16,
+                    "width": 1
+                }
+            ]
+        },
+        {
+            "id": "spin3",
+            "image": "signpost-spin3.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": -4,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 56,
+                    "top": 16,
+                    "width": 1
+                },
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "animations": [
+    ],
+    "sprites": [
+        {
+            "id": "check1",
+            "image": "ghz-giant-ball-check1.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 9,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "check2",
+            "image": "ghz-giant-ball-check2.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "check3",
+            "image": "ghz-giant-ball-check3.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 18,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 27,
+                    "top": -24,
+                    "width": 3
+                }
+            ]
+        },
+        {
+            "id": "shiny",
+            "image": "ghz-giant-ball-shiny.png",
+            "origin": {
+                "x": 24,
+                "y": 24
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": 0,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": 0,
+                    "mirrored": true,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -24,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 0,
+                    "top": -24,
+                    "width": 3
+                },
+                {
+                    "flipped": true,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 36,
+                    "top": -8,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 1,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "tileIndex": 36,
+                    "top": -16,
+                    "width": 2
+                }
+            ]
+        }
+    ]
+}

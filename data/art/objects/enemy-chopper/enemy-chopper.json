@@ -1,0 +1,81 @@
+{
+    "animations": [
+        {
+            "id": "slow",
+            "script": [
+                {
+                    "show": "shut"
+                },
+                {
+                    "show": "open"
+                }
+            ],
+            "speed": 7
+        },
+        {
+            "id": "fast",
+            "script": [
+                {
+                    "show": "shut"
+                },
+                {
+                    "show": "open"
+                }
+            ],
+            "speed": 3
+        },
+        {
+            "id": "still",
+            "script": [
+                {
+                    "show": "shut"
+                }
+            ],
+            "speed": 7
+        }
+    ],
+    "sprites": [
+        {
+            "id": "open",
+            "image": "enemy-chopper-open.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 16,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "shut",
+            "image": "enemy-chopper-shut.png",
+            "origin": {
+                "x": 16,
+                "y": 16
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 4,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -16,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "animations": [
+        {
+            "id": "swim",
+            "script": [
+                {
+                    "show": "open1"
+                },
+                {
+                    "show": "shut1"
+                },
+                {
+                    "show": "open2"
+                },
+                {
+                    "show": "shut2"
+                }
+            ],
+            "speed": 7
+        }
+    ],
+    "sprites": [
+        {
+            "id": "open1",
+            "image": "enemy-jaws-open1.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "open2",
+            "image": "enemy-jaws-open2.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 24,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 0,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "shut1",
+            "image": "enemy-jaws-shut1.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": false,
+                    "height": 2,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        },
+        {
+            "id": "shut2",
+            "image": "enemy-jaws-shut2.png",
+            "origin": {
+                "x": 16,
+                "y": 12
+            },
+            "sections": [
+                {
+                    "flipped": true,
+                    "height": 2,
+                    "left": 16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 28,
+                    "top": -11,
+                    "width": 2
+                },
+                {
+                    "flipped": false,
+                    "height": 3,
+                    "left": -16,
+                    "mirrored": false,
+                    "paletteLine": 0,
+                    "priority": false,
+                    "tileIndex": 12,
+                    "top": -12,
+                    "width": 4
+                }
+            ]
+        }
+    ]
+}
