@@ -165,7 +165,7 @@ auto Nedrysoft::SegaIntro::execute(SDL_Window *window, SDL_Renderer *renderer, i
             if ((colourIndex + cycleIndex) < 64) {
                 palette[cycleIndex + colourIndex] = AnimationPalette[colourIndex];
             } else {
-                palette[cycleIndex + colourIndex] = ORGB(0xFF, 0xFF, 0xFF);
+                //palette[cycleIndex + colourIndex] = ORGB(0xFF, 0xFF, 0xFF);
             }
         }
 
